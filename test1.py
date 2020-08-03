@@ -1,13 +1,11 @@
+# FUNCTIONS
 # int (integer) - целое число
 number = 5
 age = 36
-
 # float - дробные числа
 fnumber = 5.7
-
 # str (string) все слова
 name = "Dimon"
-
 # bool   True or False
 status = True
 

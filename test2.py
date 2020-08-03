@@ -37,3 +37,7 @@ print("x = " + str(math.floor(x)))
 y = 7.15
 import math
 print("y = " + str(math.ceil(y)))
+
+#PI
+import math
+print("PI = " + str(math.pi))
